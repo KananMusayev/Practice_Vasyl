@@ -9,3 +9,9 @@ Wolkswagen
 Volvo
 Jeep
 Tesla
+Kia
+Hyundai
+Nissan
+Lexus
+
+
