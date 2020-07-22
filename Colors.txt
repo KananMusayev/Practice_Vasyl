@@ -5,3 +5,5 @@ Black
 Orange
 ##white
 Brown
+purple
+skyblue
